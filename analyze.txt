@@ -1,0 +1,34 @@
+﻿Analyzing myprofile...                                          
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\layout\main_layout.dart:32:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\layout\main_layout.dart:33:63 - deprecated_member_use
+warning - Unused import: 'package:flutter/material.dart' - lib\core\router\app_router.dart:1:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\premium_widgets.dart:28:70 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\premium_widgets.dart:40:63 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\premium_widgets.dart:60:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\premium_widgets.dart:65:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\splash_page.dart:45:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\splash_page.dart:88:39 - deprecated_member_use
+warning - Unused import: 'package:go_router/go_router.dart' - lib\features\admin\presentation\pages\admin_dashboard.dart:3:8 - unused_import
+  error - The getter 'cardBg' isn't defined for the type 'AppColors' - lib\features\admin\presentation\widgets\add_edit_project_dialog.dart:141:46 - undefined_getter
+  error - The argument type 'Future<void> Function()?' can't be assigned to the parameter type 'VoidCallback'.  - lib\features\admin\presentation\widgets\add_edit_project_dialog.dart:197:40 - argument_type_not_assignable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\admin\presentation\widgets\add_edit_project_dialog.dart:332:91 - deprecated_member_use
+   info - The imported package 'freezed_annotation' isn't a dependency of the importing package - lib\features\projects\data\models\project_model.dart:1:8 - depend_on_referenced_packages
+warning - Duplicate import - lib\features\projects\presentation\cubit\projects_cubit.dart:9:8 - duplicate_import
+warning - Duplicate import - lib\features\projects\presentation\cubit\projects_cubit.dart:10:8 - duplicate_import
+warning - Duplicate import - lib\features\projects\presentation\cubit\projects_cubit.dart:11:8 - duplicate_import
+warning - Duplicate import - lib\features\projects\presentation\cubit\projects_cubit.dart:12:8 - duplicate_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\projects\presentation\pages\project_details_page.dart:36:44 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\projects\presentation\pages\project_details_page.dart:91:45 - unnecessary_underscores
+warning - Unused import: '../../../../core/widgets/premium_widgets.dart' - lib\features\projects\presentation\pages\projects_page.dart:4:8 - unused_import
+  error - The getter 'cardBg' isn't defined for the type 'AppColors' - lib\features\projects\presentation\pages\projects_page.dart:105:30 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\projects\presentation\pages\projects_page.dart:107:57 - deprecated_member_use
+warning - Unused import: '../../../../core/widgets/premium_widgets.dart' - lib\features\projects\presentation\widgets\project_card.dart:4:8 - unused_import
+  error - The getter 'cardBg' isn't defined for the type 'AppColors' - lib\features\projects\presentation\widgets\project_card.dart:18:28 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\projects\presentation\widgets\project_card.dart:20:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\projects\presentation\widgets\project_card.dart:23:35 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\features\projects\presentation\widgets\project_card.dart:41:39 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\features\projects\presentation\widgets\project_card.dart:41:43 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\projects\presentation\widgets\project_card.dart:49:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\projects\presentation\widgets\project_card.dart:51:66 - deprecated_member_use
+

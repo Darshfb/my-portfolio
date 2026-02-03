@@ -1,0 +1,118 @@
+name: myprofile
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: any
+  cloud_firestore: any
+  firebase_auth: any
+  firebase_storage: any
+  flutter_bloc: ^9.1.0
+  get_it: ^9.2.0
+  injectable: ^2.5.0
+  firebase_analytics: any
+  go_router: ^17.0.1
+  flutter_animate: ^4.5.2
+  equatable: ^2.0.7
+  google_fonts: ^8.0.0
+  shared_preferences: ^2.5.2
+  intl: ^0.20.2
+  dartz: ^0.10.1
+  image_picker: ^1.1.2
+  json_annotation: ^4.10.0
+  seo: any
+  flutter_markdown: ^0.7.3+1
+
+  flutter_localizations:
+    sdk: flutter
+  cached_network_image: ^3.4.1
+  pdf: ^3.10.8
+  printing: ^5.11.1
+  url_launcher: ^6.3.2
+  font_awesome_flutter: ^10.7.0
+  file_picker: ^8.1.7
+  http: ^1.2.1
+  easy_localization: ^3.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.15
+  injectable_generator: ^2.6.4
+  freezed: ^3.2.4
+  freezed_annotation: ^3.1.0
+  json_serializable: ^6.9.1
+  json_annotation: ^4.9.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
