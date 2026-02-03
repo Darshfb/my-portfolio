@@ -34,6 +34,7 @@ class _BlogCardState extends State<BlogCard> {
           duration: const Duration(milliseconds: 200),
           child: Container(
             decoration: BoxDecoration(
+              
               borderRadius: BorderRadius.circular(20),
               border: Border.all(
                 color: _isHovered ? AppColors.gold.withOpacity(0.3) : Colors.white.withOpacity(0.05),
